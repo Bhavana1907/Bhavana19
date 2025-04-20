@@ -1,1 +1,17 @@
-# Bhavana19
+# Hello, I'm Bhavana Ponnam! 👋
+------------------------------------------------------------
+### 🚀 About Me
+Passionate about technology and innovation, constantly learning and building impactful solutions.
+----------------------------------------------------------------
+### 🔧 Tech Stack
+- Python, JavaScript, HTML,C
+- Exploring DSA
+- GitHub, VS Code
+------------------------------------------------------
+### 🏆 My Projects
+1. **Project 1**:  AI for healthcare predictive Analytics
+ 
+--------------------------------------------------
+### 🌍 Connect With Me
+- [LinkedIn]https://www.linkedin.com/in/bhavanaponnam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ 
